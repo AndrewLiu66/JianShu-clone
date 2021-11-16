@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# JIAN SHU CLONE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project a clone of the website of JIAN SHU (https://www.jianshu.com/)
 
 ## Available Scripts
 
