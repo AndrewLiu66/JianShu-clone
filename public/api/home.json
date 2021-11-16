@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqnmob3.doubanio.com%2Fview%2Felanor_image%2Fraw%2Fpublic%2F0PJB7I1R.jpg%3FimageView2%2F2%2Fq%2F90%2Fw%2F200%2Fh%2F200%2Fformat%2Fjpg&refer=http%3A%2F%2Fqnmob3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625399881&t=ccaae06fb90f975f48098e9102e93363"
+      },
+      {
+        "id": 2,
+        "title": "手绘",
+        "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqnmob3.doubanio.com%2Fview%2Felanor_image%2Fraw%2Fpublic%2F0PJB7I1R.jpg%3FimageView2%2F2%2Fq%2F90%2Fw%2F200%2Fh%2F200%2Fformat%2Fjpg&refer=http%3A%2F%2Fqnmob3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625399881&t=ccaae06fb90f975f48098e9102e93363"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "阿斯顿发就阿里斯顿就发烧",
+        "desc": "6月2日，为贯彻省、市上级部门抓紧抓实抓细疫情防控工作的决策部署，珠海市商务局和珠海市市场监督管理局联合发布《关于近期做好餐饮服务行业新冠肺炎疫情防控工作的通知》，统筹推进珠海餐饮服务行业有序健康发展，进一步做好近期珠海餐饮服务行业疫情防控工作，确保广大居民就餐安全。（珠海特区报6月3日02版）",
+        "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqnmob3.doubanio.com%2Fview%2Felanor_image%2Fraw%2Fpublic%2F0PJB7I1R.jpg%3FimageView2%2F2%2Fq%2F90%2Fw%2F200%2Fh%2F200%2Fformat%2Fjpg&refer=http%3A%2F%2Fqnmob3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625399881&t=ccaae06fb90f975f48098e9102e93363"
+      },
+      {
+        "id": 2,
+        "title": "阿斯顿发就阿里斯顿就发烧",
+        "desc": "6月2日，为贯彻省、市上级部门抓紧抓实抓细疫情防控工作的决策部署，珠海市商务局和珠海市市场监督管理局联合发布《关于近期做好餐饮服务行业新冠肺炎疫情防控工作的通知》，统筹推进珠海餐饮服务行业有序健康发展，进一步做好近期珠海餐饮服务行业疫情防控工作，确保广大居民就餐安全。（珠海特区报6月3日02版）",
+        "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqnmob3.doubanio.com%2Fview%2Felanor_image%2Fraw%2Fpublic%2F0PJB7I1R.jpg%3FimageView2%2F2%2Fq%2F90%2Fw%2F200%2Fh%2F200%2Fformat%2Fjpg&refer=http%3A%2F%2Fqnmob3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625399881&t=ccaae06fb90f975f48098e9102e93363"
+      },
+      {
+        "id": 3,
+        "title": "阿斯顿发就阿里斯顿就发烧",
+        "desc": "6月2日，为贯彻省、市上级部门抓紧抓实抓细疫情防控工作的决策部署，珠海市商务局和珠海市市场监督管理局联合发布《关于近期做好餐饮服务行业新冠肺炎疫情防控工作的通知》，统筹推进珠海餐饮服务行业有序健康发展，进一步做好近期珠海餐饮服务行业疫情防控工作，确保广大居民就餐安全。（珠海特区报6月3日02版）",
+        "imgUrl": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fqnmob3.doubanio.com%2Fview%2Felanor_image%2Fraw%2Fpublic%2F0PJB7I1R.jpg%3FimageView2%2F2%2Fq%2F90%2Fw%2F200%2Fh%2F200%2Fformat%2Fjpg&refer=http%3A%2F%2Fqnmob3.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1625399881&t=ccaae06fb90f975f48098e9102e93363"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2754334428,1055522920&fm=26&gp=0.jpg"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2754334428,1055522920&fm=26&gp=0.jpg"
+      }
+    ]
+  }
+}
